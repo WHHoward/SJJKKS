@@ -128,7 +128,7 @@ int main()
             case 4:
             {
                 cout << "开始玩游戏咯！！" << endl;
-                system("./Sudoku");
+                system("./Test_pac/untitled.sh");
                 break;
             }
         }
